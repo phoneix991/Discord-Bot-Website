@@ -10,9 +10,9 @@ export default function Tos() {
 <div className="py-3"></div>
 <p>⊳ You may not use open source codes to harm other servers.</p>
 <div className="py-3"></div>
-<p>⊳ You may not sell or market open source codes through other platforms.</p>
+<p>⊳ Açık kaynak kodlarını diğer platformlar aracılığıyla satamaz veya pazarlayamazsınız.</p>
 <div className="py-3"></div>
-<p>⊳ While using the bot, you cannot use it in a way that harms other users for troll purposes.</p>
+<p>⊳ Botu kullanırken trol amaçlı diğer kullanıcılara zarar verecek şekilde kullanamazsınız.</p>
 <div className="py-3"></div>
 <p>⊳ To use certain discord bot commands, you need to vote for the <a className="text-white" href="https://top.gg/bot/774043716797071371/vote">MusicMaker</a> bot at certain intervals.</p>
 </div>

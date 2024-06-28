@@ -4,6 +4,7 @@ import Link from "next/link";
 export default function Commands() {
 const commands = [
   "Free Komutlar:",
+  "-------------",
   "/phoneixpanel",
   "/ban",
   "/unban",
@@ -29,6 +30,7 @@ const commands = [
   "/skip",
   "------------------------------------------",
   "Premium Komutlar"
+  "----------------"
 ];
 
   return (

@@ -33,7 +33,7 @@ Phoneix'e Oy Ver</a>
         </div>
 
         <div style={{ zIndex: '-1' }} className="hidden xl:block undrag pointer-events-none opacity-10 -left-[10vw] absolute top-[8vw] h-[35vw] flex-shrink-0 grayscale rotate-[1deg]">
-        <Image width="600" height="600" src="/img/phoneixanasayfaarkaplansol.png"  />
+        <Image width="600" height="600" src="/img/dcpro.png"  />
         </div>
         <div style={{ zIndex: '-1' }} className="hidden xl:block undrag opacity-10 pointer-events-none -right-[15vw] absolute top-[13vw] h-[90vw] grayscale -rotate-9">
         <Image  width="600" height="600" src="/img/phoneixanasayfaarkaplansağ.png"  />

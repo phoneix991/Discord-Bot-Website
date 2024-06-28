@@ -29,7 +29,7 @@ const commands = [
   "/vunmute",
   "/skip",
   "------------------------------------------",
-  "Premium Komutlar"
+  "Premium Komutlar",
   "----------------"
 ];
 

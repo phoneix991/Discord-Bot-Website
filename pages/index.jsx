@@ -7,29 +7,29 @@ export default function Index() {
     <>
       <div className="py-20 mb-30 max-w-3xl mx-auto">
         <div className="flex w-full justify-center">
-      <img width="500" src="/img/bck.png" />
+      <img width="500" src="/https://www.google.com/imgres?q=phoenix%20logo&imgurl=https%3A%2F%2Fimg.freepik.com%2Fpremium-vector%2Fphoenix-logo-concept_173356-106.jpg&imgrefurl=https%3A%2F%2Fwww.freepik.com%2Fpremium-vector%2Fphoenix-logo-concept_18204726.htm&docid=jk6xcr4sE_iT6M&tbnid=6tIWZI8PnyLtmM&vet=12ahUKEwi0m7GZgv2GAxUNVPEDHZolCNoQM3oECGsQAA..i&w=626&h=626&hcb=2&ved=2ahUKEwi0m7GZgv2GAxUNVPEDHZolCNoQM3oECGsQAA" />
       </div>
         <p className="animateHeader text-4xl font-extrabold text-center text-white">
-          MusicMaker
+          Phoneix
         </p>
         <p className="animateHeader text-white text-opacity-50 text-center mt-5">
-       How about moderating your own server with MusicMaker? Create your own free world and create your own playlist, experience this pleasure with the best sounds. 
+       Phoneix ile kendi sunucunuzu yönetmeye ne dersiniz? Kendi özgür ortamınızı yaratın ve kendi çalma yönetim şeklinizi oluşturun, bu rahatlığı Phoneix ile yaşayın. 
 	  </p>
         <div className="animateHeader mt-10 flex flex-wrap items-center justify-center gap-x-4">
   
-            <Link href={"https://discord.com/api/oauth2/authorize?client_id=774043716797071371&permissions=277028620608&scope=applications.commands%20bot"}>
+            <Link href={"https://discord.com/oauth2/authorize?client_id=1255190954319544321&permissions=8&integration_type=0&scope=applications.commands+bot"}>
               <a
                 className={
                   "flex items-center px-6 justify-center gap-x-2 shadow-lg shadow-amber-600/20 rounded-xl py-4 font-medium bg-gradient-to-bl from-amber-700 to-amber-500 hover:opacity-80 transition duration-200 text-white " 
                 }
               >
-          Invite MusicMaker
+          Phoneix'i Davet Et
               </a>
             </Link>
   <div className="py-10"></div>
   <Link href={"https://top.gg/bot/774043716797071371/vote"}>
   <a className={" px-6 justify-center gap-x-2 shadow-lg shadow-amber-600/20 rounded-xl py-4 font-medium bg-gradient-to-bl from-amber-700 to-amber-500 hover:opacity-80 transition duration-200 text-white " }>
-Vote MusicMaker</a>
+Phoneix'e Oy Ver</a>
   </Link>
         </div>
 

@@ -3,7 +3,7 @@ import Link from "next/link";
 
 export default function Commands() {
 const commands = [
-  "/autoplay",
+  "/phoneixpanel (Çok İşlevli Yönetim Paneli)",
   "/back",
   "/statistic",
   "/channel",
